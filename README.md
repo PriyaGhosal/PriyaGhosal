@@ -16,6 +16,9 @@ Proudly serving as a Campus Ambassador for the Winter of Blockchain initiative b
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PriyaGhosal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 Holopin Badges
+[![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyaghosal)](https://holopin.io/@priyaghosal)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
